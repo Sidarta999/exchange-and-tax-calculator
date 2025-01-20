@@ -7,3 +7,5 @@ Descrição da lógica utilizada:
 4. Aplicação da taxa do imposto no valor fixo formando o valor com impostos(total a pagar)
 5. Cálculo de câmbio do valor ORIGINAL de BRL(real brasileiro) para USD(dólar estadunidense)
 6. Mostra os 4 resultados finais sendo eles o valor base em reais, os impostos aplicados no valor base, o valor total (valor base + impostos) e por fim o câmbio do valor base em dólares.
+
+Nota Importante: baixe o "exchange" via terminal do python para o código funcionar de forma correta
