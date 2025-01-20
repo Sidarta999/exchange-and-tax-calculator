@@ -10,3 +10,5 @@ calcula impostos e mostra o valor base em dólares.
 
 
 Nota Importante: baixe o "requests, matplotlib, sympy, collections" via terminal do python para o código funcionar de forma correta
+
+comentario: eu não me orgulho tanto deste projeto pois foi meu primeiro projeto na plataforma e ele teve um uso pesado de IA para sua construção, eu futuramente pretendo estudar muito mais essa linguagem, pois apesar da familiaridade em muitos momentos me vi cometendo vários erros na constituição do codigo quando tentei faze-lo por conta principalmente por n ter tido tempo suficiente para estudar as bibliotecas usadas com cuidado. 
